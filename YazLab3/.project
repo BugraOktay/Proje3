@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Yaz_Lab_3</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>resim/kasa.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Masa%C3%BCst%C3%BC/kasa.png</locationURI>
+		</link>
+		<link>
+			<name>resim/saat.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Masa%C3%BCst%C3%BC/saat.png</locationURI>
+		</link>
+		<link>
+			<name>resim/yemek.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Masa%C3%BCst%C3%BC/yemek.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
